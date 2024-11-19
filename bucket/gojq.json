@@ -9,6 +9,9 @@
             "hash": "eecb82b88d6a60a626385564377d92ab29228e1a90a7caa386108d2df66e4bb5"
         }
     },
+    "bin": [
+        "gojq.exe"
+    ],
     "checkver": {
         "github": "https://github.com/itchyny/gojq"
     },
