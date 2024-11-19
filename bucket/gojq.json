@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/itchyny/gojq/releases/download/v0.12.16/gojq_v0.12.16_windows_amd64.zip",
-            "hash": "4d9bd4639476c0e4d00dd9da30b7ca78a1dc6e3dafc69e2e8862fdafcc23e163"
+            "hash": "eecb82b88d6a60a626385564377d92ab29228e1a90a7caa386108d2df66e4bb5"
         }
     },
     "checkver": {
